@@ -1,0 +1,27 @@
+{
+  "name": "http-over-tcp-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rayetzki/http-over-tcp-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rayetzki/http-over-tcp-server/issues"
+  },
+  "homepage": "https://github.com/rayetzki/http-over-tcp-server#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4",
+    "ts-node": "^9.0.0"
+  },
+  "dependencies": {
+    "typescript": "^4.0.3"
+  }
+}
